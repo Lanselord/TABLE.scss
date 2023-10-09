@@ -1,0 +1,22 @@
+.container {
+  width: 1320px;
+  padding: 0px 20px;
+  margin: 0px auto;
+}
+
+td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 800px;
+}
+
+td {
+  text-align: center;
+}
+
+.thh {
+  display: block;
+}/*# sourceMappingURL=main.min.css.map */
